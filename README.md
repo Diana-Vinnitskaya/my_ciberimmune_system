@@ -26,7 +26,7 @@
 |*Monitoring IoT devices system* | производит мониторинг всех Iot девайсов, объединяет данные|  |
 |WMS| система работы склада| |
 
-![arch1-2](https://github.com/Diana-Vinnitskaya/my_ciberimmune_system/assets/132234308/5bb6d885-4496-43dc-a732-8a6d3cb2bb6e)
+![PolArc drawio](./arch1-2.png)
 
 ## Цели и предположения безопасности
 ### Цели безопасности
@@ -36,4 +36,4 @@
 ### Предположения безопасности
 1. Не рассматриваются атаки с использованием физического доступа(кража товара во время транспортировки или со склада и др.)
 ### Политика архитектуры
-![PolArc drawio](https://github.com/Diana-Vinnitskaya/my_ciberimmune_system/assets/132234308/a3d61376-83e1-4ba6-b267-21db593c1784)
+![PolArc drawio](./PolArc.drawio.png)
