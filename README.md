@@ -24,7 +24,9 @@
 |*IoT devices* |  |  |
 |*Monitoring IoT devices system* |  |  |
 |WMS|||
-|
+
+![Система](https://github.com/Diana-Vinnitskaya/my_ciberimmune_system/assets/132234308/252135b0-0462-40d8-bd60-e180f961cf45)
+
 
 ## Цели и предположения безопасности
 ### Цели безопасности
